@@ -10,5 +10,7 @@ populate buttons with the name of the foods which have been added for that parti
 
 There can be a max of 24 recipes added to each time frame.
 
-This was created as an example for using a constructor. The styling of the website will be improved as time goes on.
-Going forward I plan to implement this into a program using servers to save data
+This was created as an example for using a constructor. 
+
+The styling of the website will be improved as time goes on.
+Going forward I plan to implement this into a program using mySQL database to save data.
